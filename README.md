@@ -28,9 +28,7 @@ Before running the script, you must have the following:
 
 1. **Clone this repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
-   cd YOUR_REPO_NAME
-
+   git clone https://github.com/pandeyujjwal975/youtube-video-downloader
 ```
 
 2. **Install the required library:**
